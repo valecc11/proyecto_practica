@@ -1,7 +1,6 @@
 .centrados {
     text-align: center;
 }
-
 .tam {
     width: 100%;
     max-width: 300px;
@@ -29,3 +28,48 @@
     padding: 20px;
     margin: 20px;
 }
+
+.desc {
+
+    margin-left: 300px;
+    margin-bottom: 40px;
+    margin-right: 300px;
+
+    font-weight: bold;
+
+
+    border: 5px outset #00A4BD;
+
+
+    color: #2D3E50;
+
+
+    background-color: #EAF0F6;
+
+
+    text-align: center;
+}
+
+.datos {
+
+    margin-left: 450px;
+    margin-bottom: 40px;
+    margin-right: 450px;
+
+    font-weight: bold;
+
+
+    border: 2px outset #ff6adf;
+
+
+    color: #2D3E50;
+
+
+    background-color: #f5cbff;
+
+
+    text-align: center;
+}
+
+
+
