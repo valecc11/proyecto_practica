@@ -2,3 +2,12 @@
     text-align: center;
 }
 
+.tam{
+    width: 100%;
+    max-width: 300px;
+}
+.footer {
+    background-color: #1d1c1c;
+    padding: 30px;
+    text-align: center;
+  }

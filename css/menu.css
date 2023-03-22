@@ -1,5 +1,5 @@
 header {
-    background: rgba(0,0,0,0.7);
+    background: rgba(252, 252, 252, 0.7);
     width: 100%;
     z-index: 100;
   }
@@ -21,7 +21,7 @@ header {
   nav ul li a {
     display: block;
     padding: 10px;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     text-decoration: none;
   }
   nav ul li:hover {
