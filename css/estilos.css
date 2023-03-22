@@ -23,6 +23,25 @@
     text-align: center;
 }
 
+.datos {
+
+    margin-left: 450px;
+    margin-bottom: 40px;
+    margin-right: 450px;
+
+    font-weight: bold;
+
+
+    border: 2px outset #ff6adf;
+
+
+    color: #2D3E50;
+
+
+    background-color: #f5cbff;
+
 
     text-align: center;
 }
+
+
