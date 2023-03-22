@@ -1,13 +1,31 @@
-.centrados{
+.centrados {
     text-align: center;
 }
 
-.tam{
+.tam {
     width: 100%;
     max-width: 300px;
 }
+
 .footer {
-    background-color: #1d1c1c;
-    padding: 30px;
+    background-color: #272525;
+    padding: 20px;
     text-align: center;
-  }
+}
+
+.color {
+    color: rgb(255, 255, 255);
+}
+
+.tam2 {
+    width: 100%;
+    max-width: 200px;
+}
+
+.cajalinda {
+    background-color: rgb(207, 170, 205);
+    width: 100%;
+    border: 2px solid rgb(171, 108, 187);
+    padding: 20px;
+    margin: 20px;
+}
