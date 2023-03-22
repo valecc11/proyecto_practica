@@ -1,4 +1,45 @@
-.centrados{
+.centrados {
     text-align: center;
 }
 
+.desc {
+
+    margin-left: 300px;
+    margin-bottom: 40px;
+    margin-right: 300px;
+
+    font-weight: bold;
+
+
+    border: 5px outset #00A4BD;
+
+
+    color: #2D3E50;
+
+
+    background-color: #EAF0F6;
+
+
+    text-align: center;
+}
+
+.datos {
+
+    margin-left: 470px;
+    margin-bottom: 40px;
+    margin-right: 470px;
+
+    font-weight: bold;
+
+
+    border: 2px outset #ff566d;
+
+
+    color: #000000;
+
+
+    background-color: #ffc8c8;
+
+
+    text-align: center;
+}
