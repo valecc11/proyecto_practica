@@ -3,9 +3,21 @@
 }
 .tam {
     width: 100%;
-    max-width: 300px;
-}
+    max-width: 500px;
 
+}
+.tama3{
+    width: 100%;
+    max-width: 565px;
+}
+.tama4{
+    width: 100%;
+    max-width: 200px;
+}
+.tama5{
+    width: 100%;
+    max-width: 600px;
+}
 .footer {
     background-color: #272525;
     padding: 20px;
@@ -22,11 +34,12 @@
 }
 
 .cajalinda {
-    background-color: rgb(207, 170, 205);
+    background-color: rgb(236, 177, 0);
     width: 100%;
-    border: 2px solid rgb(171, 108, 187);
-    padding: 20px;
-    margin: 20px;
+    border: 7px solid rgb(236, 177, 0);
+    padding: 50px;
+    margin: 10px;
+    border-radius: 44px;
 }
 
 .desc {
@@ -71,5 +84,7 @@
     text-align: center;
 }
 
-
+.colorletter{
+    color: #e8e8e8;
+}
 
